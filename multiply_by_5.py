@@ -7,7 +7,7 @@ def main() -> None:
         print("Invalid input. Please enter a valid number.")
         return
 
-    result = number * 10
+    result = number * 7
 
     if result.is_integer():
         print(f"Result: {int(result)}")
