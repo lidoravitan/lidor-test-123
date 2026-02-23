@@ -10,3 +10,4 @@ git status
 git push
 git pull
 
+updated on github place.
